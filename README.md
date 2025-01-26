@@ -36,4 +36,4 @@ Two simple condition :
 * you can enter angle of the text
 
   
-   ## More details : [Watermarker Plugin](https://community.mybb.com/thread-237011.html)
+## More details : [Watermarker Plugin](https://community.mybb.com/thread-237011.html)
